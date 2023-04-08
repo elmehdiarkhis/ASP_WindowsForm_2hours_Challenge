@@ -1,0 +1,17 @@
+C:\Users\elmehdi\source\repos\StreamTraining\StreamTraining\bin\Debug\net6.0-windows\StreamTraining.exe
+C:\Users\elmehdi\source\repos\StreamTraining\StreamTraining\bin\Debug\net6.0-windows\StreamTraining.deps.json
+C:\Users\elmehdi\source\repos\StreamTraining\StreamTraining\bin\Debug\net6.0-windows\StreamTraining.runtimeconfig.json
+C:\Users\elmehdi\source\repos\StreamTraining\StreamTraining\bin\Debug\net6.0-windows\StreamTraining.dll
+C:\Users\elmehdi\source\repos\StreamTraining\StreamTraining\bin\Debug\net6.0-windows\StreamTraining.pdb
+C:\Users\elmehdi\source\repos\StreamTraining\StreamTraining\obj\Debug\net6.0-windows\StreamTraining.csproj.AssemblyReference.cache
+C:\Users\elmehdi\source\repos\StreamTraining\StreamTraining\obj\Debug\net6.0-windows\StreamTraining.csproj.GenerateResource.cache
+C:\Users\elmehdi\source\repos\StreamTraining\StreamTraining\obj\Debug\net6.0-windows\StreamTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elmehdi\source\repos\StreamTraining\StreamTraining\obj\Debug\net6.0-windows\StreamTraining.AssemblyInfoInputs.cache
+C:\Users\elmehdi\source\repos\StreamTraining\StreamTraining\obj\Debug\net6.0-windows\StreamTraining.AssemblyInfo.cs
+C:\Users\elmehdi\source\repos\StreamTraining\StreamTraining\obj\Debug\net6.0-windows\StreamTraining.csproj.CoreCompileInputs.cache
+C:\Users\elmehdi\source\repos\StreamTraining\StreamTraining\obj\Debug\net6.0-windows\StreamTraining.dll
+C:\Users\elmehdi\source\repos\StreamTraining\StreamTraining\obj\Debug\net6.0-windows\refint\StreamTraining.dll
+C:\Users\elmehdi\source\repos\StreamTraining\StreamTraining\obj\Debug\net6.0-windows\StreamTraining.pdb
+C:\Users\elmehdi\source\repos\StreamTraining\StreamTraining\obj\Debug\net6.0-windows\StreamTraining.genruntimeconfig.cache
+C:\Users\elmehdi\source\repos\StreamTraining\StreamTraining\obj\Debug\net6.0-windows\ref\StreamTraining.dll
+C:\Users\elmehdi\source\repos\StreamTraining\StreamTraining\obj\Debug\net6.0-windows\StreamTraining.frmExamFinDeSession.resources
